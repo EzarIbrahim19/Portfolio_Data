@@ -1,2 +1,2 @@
-# EzarProject
-This ia my projects
+# MACHINE LEARNING
+This is my projects
