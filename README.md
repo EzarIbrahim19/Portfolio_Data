@@ -1,2 +1,2 @@
 # MACHINE LEARNING
-This is my projects
+ini adalah script code pemrograman dengan python ,augmentasi gambar batu gunting kertas
